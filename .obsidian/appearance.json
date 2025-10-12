@@ -1,0 +1,8 @@
+{
+  "accentColor": "#383838",
+  "theme": "obsidian",
+  "cssTheme": "Primary",
+  "enabledCssSnippets": [
+    "images-inline"
+  ]
+}

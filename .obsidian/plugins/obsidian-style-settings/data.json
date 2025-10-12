@@ -1,0 +1,15 @@
+{
+  "shimmering-focus@@tab-width": 350,
+  "shimmering-focus@@normal-tab-bar": true,
+  "shimmering-focus@@font-heading-theme": "\"Calibri, \"Times New Roman\"",
+  "shimmering-focus@@bg-hue-dark": 120,
+  "shimmering-focus@@heading-letter-spacing": 2.5,
+  "shimmering-focus@@uncolored-bold": false,
+  "shimmering-focus@@show-sidebar-header-buttons": true,
+  "ebullientworks-theme-16@@ebw-header-font": "'Calibri'",
+  "ebullientworks-theme-16@@ebw-font-tags": "'Calibri'",
+  "ebullientworks-theme-16@@ebw-font-callout-title": "'Calibri'",
+  "ebullientworks-theme-16@@ebw-header-modifier": 1.5,
+  "ebullientworks-theme-16@@ebw-p-modifier": 1.5,
+  "ebullientworks-theme-16@@other-font-settings": true
+}

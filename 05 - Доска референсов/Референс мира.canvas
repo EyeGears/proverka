@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"669fa2dcd2687a37","type":"text","text":"[[Мир Трилока. Общее]]","x":-750,"y":-600,"width":250,"height":60},
+		{"id":"4da30e9e92077fc1","type":"file","file":"Материалы/Pasted image 20251011183121.png","x":-780,"y":-520,"width":400,"height":221},
+		{"id":"3313972a5a0c760f","type":"file","file":"Материалы/Pasted image 20251011183133.png","x":-340,"y":-530,"width":400,"height":242},
+		{"id":"421671cd0f94d847","type":"file","file":"Материалы/Pasted image 20251011183144.png","x":-780,"y":-260,"width":400,"height":224},
+		{"id":"cd9056b49e2c189b","type":"file","file":"Материалы/Pasted image 20251011183204.png","x":-340,"y":-260,"width":400,"height":381},
+		{"id":"3c03ebf50e91501c","type":"text","text":"Начальная локация. Патала","x":600,"y":-200,"width":250,"height":60},
+		{"id":"574d954361071075","type":"file","file":"Материалы/Pasted image 20251011183320.png","x":525,"y":-40,"width":400,"height":267},
+		{"id":"2a7f46596cc15353","type":"file","file":"Материалы/Pasted image 20251011183325.png","x":960,"y":-40,"width":400,"height":262},
+		{"id":"0d15202e33640e44","type":"file","file":"Материалы/Pasted image 20251011183341.png","x":1440,"y":-40,"width":400,"height":271},
+		{"id":"0ccf6cad6ccda15e","type":"file","file":"Материалы/Pasted image 20251011183346.png","x":1920,"y":-40,"width":282,"height":400},
+		{"id":"db7eb2098be8f281","type":"file","file":"Материалы/Pasted image 20251011183351.png","x":1440,"y":320,"width":400,"height":223},
+		{"id":"71b7468031d4e38f","type":"file","file":"Материалы/Pasted image 20251011183359.png","x":960,"y":275,"width":400,"height":268},
+		{"id":"779b0de6d938704d","type":"file","file":"Материалы/Pasted image 20251011183414.png","x":525,"y":275,"width":400,"height":269},
+		{"id":"b5a49e897ae5103a","type":"file","file":"Материалы/Pasted image 20251011183423.png","x":525,"y":600,"width":246,"height":400},
+		{"id":"73aa585482134f1a","type":"file","file":"Материалы/Pasted image 20251011183431.png","x":850,"y":600,"width":400,"height":269},
+		{"id":"202afd54b81a1528","type":"file","file":"Материалы/Pasted image 20251011183438.png","x":1280,"y":600,"width":400,"height":152},
+		{"id":"5c198504b62fb753","type":"file","file":"Материалы/Pasted image 20251011183446.png","x":525,"y":1120,"width":400,"height":242},
+		{"id":"fdcee29abc9ef88c","type":"file","file":"Материалы/Pasted image 20251011183453.png","x":960,"y":1064,"width":400,"height":298},
+		{"id":"70ffe52fe502a5c4","type":"file","file":"Материалы/Pasted image 20251011183458.png","x":1440,"y":1099,"width":400,"height":228}
+	],
+	"edges":[]
+}
