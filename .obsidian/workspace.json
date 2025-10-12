@@ -186,9 +186,19 @@
               "icon": "lucide-ghost",
               "title": "media-companion-sidecar-view"
             }
+          },
+          {
+            "id": "d32c6d29f1fa77af",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "1874d86d89a8a64c",
@@ -230,7 +240,8 @@
       "obsidian-kanban:Создать новую доску": false,
       "media-companion:Open gallery": false,
       "tldraw:Create new tldrawing": false,
-      "folder-file-splitter:FolderFile Splitter": false
+      "folder-file-splitter:FolderFile Splitter": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "12bec597b975b301",
