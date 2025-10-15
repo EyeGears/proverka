@@ -7,11 +7,23 @@
 		{"id":"81776dea13772cbd","type":"text","text":"[[Внешнее. Патала]]","x":-240,"y":-880,"width":250,"height":60},
 		{"id":"b1f41f4a69e285d5","type":"text","text":"[[Асуры]]","x":-490,"y":-575,"width":250,"height":60},
 		{"id":"2c6688fb42b0370b","type":"text","text":"[[Ракшасы]]","x":520,"y":-400,"width":250,"height":60},
-		{"id":"1b6f72af1c65f679","type":"text","text":"[[Люди]]","x":1040,"y":-635,"width":250,"height":60}
+		{"id":"1b6f72af1c65f679","type":"text","text":"[[Люди]]","x":1040,"y":-635,"width":250,"height":60},
+		{"id":"08379378a8706f57","type":"text","text":"[[Среднее. Бхуми]]","x":-732,"y":-1600,"width":250,"height":60},
+		{"id":"fc26392510c36c78","type":"text","text":"[[Ангелы]]","x":-1512,"y":-2003,"width":250,"height":60},
+		{"id":"3be89eae8cf7be53","type":"text","text":"[[Элохим]]","x":-1512,"y":-1660,"width":250,"height":60},
+		{"id":"da5bf6e43be691c4","type":"text","text":"[[Ишим]]","x":-1480,"y":-1320,"width":250,"height":60},
+		{"id":"17ec45d55533be1d","type":"text","text":"[[Внутреннее. Сварга]]","x":96,"y":-1650,"width":250,"height":60},
+		{"id":"905594925d807cf2","type":"text","text":"[[Хара]]","x":722,"y":-2040,"width":250,"height":60},
+		{"id":"567600c5954fb1d0","type":"text","text":"[[Хари]]","x":680,"y":-1240,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"9e997c2d1db28ec5","fromNode":"81776dea13772cbd","fromSide":"bottom","toNode":"b1f41f4a69e285d5","toSide":"top"},
 		{"id":"9491ff27009f9615","fromNode":"81776dea13772cbd","fromSide":"bottom","toNode":"2c6688fb42b0370b","toSide":"top"},
-		{"id":"787ef017048b33a3","fromNode":"81776dea13772cbd","fromSide":"bottom","toNode":"1b6f72af1c65f679","toSide":"top"}
+		{"id":"787ef017048b33a3","fromNode":"81776dea13772cbd","fromSide":"bottom","toNode":"1b6f72af1c65f679","toSide":"top"},
+		{"id":"e01299cc9781782e","fromNode":"08379378a8706f57","fromSide":"left","toNode":"fc26392510c36c78","toSide":"right"},
+		{"id":"4feb20679bcaa255","fromNode":"08379378a8706f57","fromSide":"left","toNode":"3be89eae8cf7be53","toSide":"right"},
+		{"id":"7e0a12d9b40f96b4","fromNode":"08379378a8706f57","fromSide":"left","toNode":"da5bf6e43be691c4","toSide":"right"},
+		{"id":"97722cfd9138d888","fromNode":"17ec45d55533be1d","fromSide":"right","toNode":"905594925d807cf2","toSide":"left"},
+		{"id":"b458d1b6ee640374","fromNode":"17ec45d55533be1d","fromSide":"right","toNode":"567600c5954fb1d0","toSide":"left"}
 	]
 }

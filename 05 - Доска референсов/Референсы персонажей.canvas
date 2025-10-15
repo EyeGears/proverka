@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"2e4401695aadbccf","x":-600,"y":-240,"width":250,"height":60,"type":"text","text":"Алый"},
-		{"id":"5d4bdc728bf83281","x":-200,"y":-240,"width":250,"height":60,"type":"text","text":"Ева"},
-		{"id":"6b31d7041dc914a5","x":-600,"y":112,"width":250,"height":60,"type":"text","text":"Кассандра"},
-		{"id":"ed1912ca0f062ae2","x":-200,"y":112,"width":250,"height":60,"type":"text","text":"Вивьен"},
-		{"id":"eb3280720cc12dc1","x":-600,"y":-400,"width":200,"height":50,"type":"text","text":"<font color=\"#4f81bd\">Протагонисты</font>"}
+		{"id":"2e4401695aadbccf","type":"text","text":"Алый","x":-600,"y":-240,"width":250,"height":60},
+		{"id":"5d4bdc728bf83281","type":"text","text":"Ева","x":-200,"y":-240,"width":250,"height":60},
+		{"id":"6b31d7041dc914a5","type":"text","text":"Кассандра","x":-600,"y":112,"width":250,"height":60},
+		{"id":"ed1912ca0f062ae2","type":"text","text":"Вивьен","x":-200,"y":112,"width":250,"height":60},
+		{"id":"eb3280720cc12dc1","type":"text","text":"<font color=\"#4f81bd\">[Протагонисты]()</font>","x":-600,"y":-400,"width":300,"height":80}
 	],
 	"edges":[]
 }
