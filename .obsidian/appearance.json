@@ -1,7 +1,7 @@
 {
-  "accentColor": "#383838",
+  "accentColor": "#754d4d",
   "theme": "obsidian",
-  "cssTheme": "Primary",
+  "cssTheme": "Aura",
   "enabledCssSnippets": [
     "images-inline"
   ]
