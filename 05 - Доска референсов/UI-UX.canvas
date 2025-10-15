@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"31c3bb68d85b59fd","type":"file","file":"Материалы (свалка)/Pasted image 20251011180625.png","x":240,"y":-380,"width":400,"height":225},
 		{"id":"a0a8f6bfa8c70e48","type":"file","file":"Материалы (свалка)/Pasted image 20251011180630.png","x":200,"y":-108,"width":400,"height":225},
 		{"id":"2eab9d3721236fe2","type":"file","file":"Материалы (свалка)/Pasted image 20251011180514.png","x":-240,"y":-107,"width":400,"height":223},
 		{"id":"fdb3ac735ab92604","type":"file","file":"Материалы (свалка)/Pasted image 20251011180635.png","x":-240,"y":180,"width":400,"height":225},
 		{"id":"06574137cd75c0e2","type":"file","file":"Материалы (свалка)/Pasted image 20251011180655.png","x":200,"y":169,"width":400,"height":248},
 		{"id":"d80367363de64b1b","type":"file","file":"Материалы (свалка)/Pasted image 20251011180643.png","x":-240,"y":460,"width":400,"height":225},
 		{"id":"744e20aca2fc71fd","type":"file","file":"Материалы (свалка)/Pasted image 20251011180705.png","x":200,"y":460,"width":400,"height":225},
-		{"id":"e3abc0f03887c53d","type":"file","file":"Материалы/Pasted image 20251011181802.png","x":-240,"y":760,"width":400,"height":300}
+		{"id":"e3abc0f03887c53d","type":"file","file":"Материалы/Pasted image 20251011181802.png","x":-240,"y":760,"width":400,"height":300},
+		{"id":"31c3bb68d85b59fd","type":"file","file":"Материалы (свалка)/Pasted image 20251011180625.png","x":200,"y":-380,"width":400,"height":225}
 	],
 	"edges":[]
 }

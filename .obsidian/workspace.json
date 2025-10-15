@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Техническая реализация/Саунддизайн.md",
+                "file": "02 - Геймдизайн/Персонажи игрока/Прокачка/Амулеты/Амулеты. Танк.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Саунддизайн"
+              "title": "Амулеты. Танк"
             }
           },
           {
@@ -168,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Техническая реализация/Саунддизайн.md",
+                "file": "02 - Геймдизайн/Персонажи игрока/Прокачка/Амулеты/Амулеты. Танк.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Саунддизайн"
+              "title": "Исходящие ссылки из Амулеты. Танк"
             }
           },
           {
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Техническая реализация/Саунддизайн.md",
+                "file": "02 - Геймдизайн/Персонажи игрока/Прокачка/Амулеты/Амулеты. Танк.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Саунддизайн"
+              "title": "Структура Амулеты. Танк"
             }
           },
           {
@@ -219,6 +219,30 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "e47e653e492e3ad5",
+            "type": "leaf",
+            "state": {
+              "type": "iron-vault-sidebar-view",
+              "state": {
+                "activeTab": "oracle"
+              },
+              "icon": "iron-vault",
+              "title": "Iron Vault"
+            }
+          },
+          {
+            "id": "3be39b233b5ec187",
+            "type": "leaf",
+            "state": {
+              "type": "iron-vault-datasworn-content-view",
+              "state": {
+                "file": "02 - Геймдизайн/Персонажи игрока/Прокачка/Амулеты/Амулеты. Танк.md"
+              },
+              "icon": "package-search",
+              "title": "Iron Vault Homebrew Inspector"
             }
           }
         ],
@@ -265,13 +289,17 @@
       "media-companion:Open gallery": false,
       "tldraw:Create new tldrawing": false,
       "folder-file-splitter:FolderFile Splitter": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "iron-vault:Show Iron Vault commands": false
     }
   },
-  "active": "d060c3761e3f1e44",
+  "active": "d32c6d29f1fa77af",
   "lastOpenFiles": [
-    "04 - Техническая реализация/Общее виденье реализации.md",
+    "02 - Геймдизайн/Персонажи игрока/Прокачка/Амулеты/Амулеты. Медик.md",
+    "04 - Техническая реализация/Саунддизайн.md",
     "04 - Техническая реализация/Подача истории.md",
+    "04 - Техническая реализация/Общее виденье реализации.md",
+    "05 - Доска референсов/UI-UX.canvas",
     "04 - Техническая реализация/Интерфейс.md",
     "03 - Нарратив/Общий нарратив игры.md",
     "02 - Геймдизайн/Краткое описание геймплея.md",
@@ -285,7 +313,6 @@
     "03 - Нарратив/Сеттинг/Предметы/Индра - униформа Трилоки.md",
     "03 - Нарратив/Сеттинг/Предметы/Ваджра (Молния) - Перчатка.md",
     "02 - Геймдизайн/Левелдизайн/Список уровней.md",
-    "05 - Доска референсов/UI-UX.canvas",
     "03 - Нарратив/Сюжет/Список персонажей.md",
     "03 - Нарратив/Сюжет/Протагонисты/Вивьен.md",
     "03 - Нарратив/Сюжет/Протагонисты/Алый.md",
@@ -296,8 +323,6 @@
     "05 - Доска референсов/Референсы персонажей.canvas",
     "05 - Доска референсов/Tldraw 2025-10-11 5.31вечера.md",
     "Материалы/image-1.png.sidecar.md",
-    "Материалы/image.png.sidecar.md",
-    "03 - Нарратив/Сеттинг/Расы/Асуры.md",
     "Материалы/image-39.png",
     "05 - Доска референсов/Референс рас.canvas",
     "Материалы/image-38.png",

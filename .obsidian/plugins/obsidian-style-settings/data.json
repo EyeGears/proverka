@@ -13,7 +13,7 @@
   "ebullientworks-theme-16@@ebw-p-modifier": 1.5,
   "ebullientworks-theme-16@@other-font-settings": true,
   "aura@@cpt-accent": "var(--cpt-purple)",
-  "aura@@aura-colorshemes-dark": "aura-colorschemes-dark-gruvbox",
+  "aura@@aura-colorshemes-dark": "aura-colorschemes-dark-kanagawa",
   "aura@@aura-active-line": "aura-active-line-highlight-border",
   "aura@@aura-neon-list": false,
   "aura@@cpt-marker-shadow": "rgb(var(--cpt-green))",
@@ -34,5 +34,11 @@
   "aura@@aura-rainbow-tags": true,
   "aura@@aura-workspace-background-workspace-slider-dark": 0.5,
   "aura@@aura-workspace-background-brightness-dark": 0.75,
-  "aura@@aura-workspace-background-blur-dark": 7
+  "aura@@aura-workspace-background-blur-dark": 7,
+  "aura@@bold-color": "rgb(var(--cpt-orange))",
+  "aura@@aura-sliding-tabs": true,
+  "aura@@tab-outline-color": "#1444A12E",
+  "aura@@aura-disable-borders": false,
+  "aura@@aura-layout-select": "aura-default-layout",
+  "aura@@aura-callouts": false
 }
