@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#gamedesign  ",
@@ -15,10 +15,17 @@
       }
     },
     {
-      "query": "tag:#сюжет  ",
+      "query": "tag:#plot ",
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#code  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.36288736930119825,
+  "scale": 0.36288736930119764,
   "close": true
 }
