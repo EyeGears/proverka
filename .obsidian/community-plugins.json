@@ -12,5 +12,10 @@
   "multi-properties",
   "folder-file-splitter",
   "obsidian-image-layouts",
-  "obsidian-git"
+  "obsidian-git",
+  "translate",
+  "copilot",
+  "table-extended",
+  "novel-word-count",
+  "cm-typewriter-scroll-obsidian"
 ]
