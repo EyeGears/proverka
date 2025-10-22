@@ -4,6 +4,8 @@
   "attachmentFolderPath": "Материалы",
   "userIgnoreFilters": [
     "Материалы/",
-    "Материалы (свалка)/"
+    "Материалы (свалка)/",
+    "copilot/",
+    "copilot/copilot-custom-prompts/"
   ]
 }
