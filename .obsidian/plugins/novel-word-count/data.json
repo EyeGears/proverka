@@ -16022,33 +16022,6 @@
         "newlineCount": 5
       }
     },
-    "Без названия.canvas": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1761174678313,
-      "modifiedDate": 1761174679419,
-      "sizeInBytes": 2,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "copilot/copilot-custom-prompts/Translate to Chinese.md": {
       "isCountable": true,
       "targetNodeType": "file",
