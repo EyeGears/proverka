@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#gamedesign  ",
@@ -31,14 +31,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.5,
+  "textFadeMultiplier": -0.9,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 4.78307291666667,
+  "lineSizeMultiplier": 2.76692708333333,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5359795996225859,
-  "close": true
+  "scale": 0.2726859917360013,
+  "close": false
 }

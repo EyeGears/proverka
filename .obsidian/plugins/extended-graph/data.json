@@ -79,7 +79,7 @@
   },
   "additionalProperties": {},
   "backupGraphOptions": {
-    "collapse-filter": true,
+    "collapse-filter": false,
     "search": "",
     "showTags": false,
     "showAttachments": false,
@@ -119,7 +119,7 @@
     "repelStrength": 10,
     "linkStrength": 1,
     "linkDistance": 250,
-    "scale": 1.0534979423868265,
+    "scale": 0.3823010968769897,
     "close": true
   },
   "openInNewTab": false,
