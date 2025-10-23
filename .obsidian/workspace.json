@@ -49,10 +49,14 @@
             "id": "25c9edff7e9ba695",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Черновик.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Черновик"
             }
           }
         ],
@@ -93,7 +97,8 @@
               "title": "Файловый менеджер"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b2319fed88fd08ad",
@@ -118,7 +123,7 @@
             }
           },
           {
-            "id": "e491445a406793ad",
+            "id": "b2e6aa196263c88f",
             "type": "leaf",
             "state": {
               "type": "ffs-plugin-file-tree-view",
@@ -258,7 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 567.5
+    "width": 437.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,8 +286,25 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "c4852bc21480a417",
+  "active": "25c9edff7e9ba695",
   "lastOpenFiles": [
+    "Без названия.canvas",
+    "Черновик.md",
+    "README.md",
+    "Шаблон/Шаблон враг.md",
+    "Без названия.md",
+    "02 - Геймдизайн/Враги игрока/Листы врагов/Боец.md",
+    "Шаблон",
+    "02 - Геймдизайн/Враги игрока/Листы врагов/Божество.md",
+    "02 - Геймдизайн/Враги игрока/Листы врагов/Хиллер.md",
+    "02 - Геймдизайн/Враги игрока/Листы врагов/Таранщик.md",
+    "02 - Геймдизайн/Враги игрока/Листы врагов/Снайпер.md",
+    "02 - Геймдизайн/Враги игрока/Листы врагов/Зомби.md",
+    "02 - Геймдизайн/Боевая система/Статус-эффекты.md",
+    "02 - Геймдизайн/Боевая система/Способности персонажей игрока.md",
+    "02 - Геймдизайн/Боевая система/Предметы.md",
+    "03 - Нарратив/Общий нарратив игры.md",
+    "02 - Геймдизайн/Кооператив.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Summarize.md",
@@ -292,26 +314,9 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Emojify.md",
-    "Без названия.canvas",
     "02 - Геймдизайн/Исследование/Начало Акта. Игрок запускает уровень..md",
-    "02 - Геймдизайн/Исследование/Пазлы.md",
-    "02 - Геймдизайн/Персонажи игрока/Развитие персонажа.md",
-    "02 - Геймдизайн/Персонажи игрока/Персонажи игрока. Общее.md",
-    "02 - Геймдизайн/Персонажи игрока/Прокачка/Амулеты/Амулеты. Инженер.md",
-    "02 - Геймдизайн/Персонажи игрока/Прокачка/Амулеты/Амулеты. Дебаффер.md",
-    "02 - Геймдизайн/Персонажи игрока/Прокачка/Амулеты/Амулеты. Медик.md",
-    "Excalidraw/Drawing 2025-10-22 21.30.25.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-22 21.30.23.excalidraw.md",
-    "05 - Доска референсов/Tldraw 2025-10-11 5.31вечера.md",
-    "05 - Доска референсов/Черновик для рисования.md",
-    "Excalidraw/Drawing 2025-10-22 21.29.46.excalidraw.md",
-    "05 - Доска референсов/Drawing 2025-10-22 21.19.02.excalidraw.md",
-    "Материалы/3F3F3F3F3F_3F3F3F3F3F3F%3F_03.png.jpg.sidecar.md",
     "Материалы/3F3F3F3F3F_3F3F3F3F3F3F%3F_03.png.jpg",
     "Excalidraw",
-    "02 - Геймдизайн/Исследование/Мир игрока.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "04 - Техническая реализация/UI-UX",
@@ -334,7 +339,6 @@
     "Материалы/Hi-Fi-RUSH07192024-012444-1830.mp4",
     "Материалы/Hi-Fi-RUSH07192024-012444-20314.mp4",
     "02 - Геймдизайн/Персонажи игрока/Список персонажей",
-    "proverka2",
     "Без названия 2.canvas"
   ]
 }
