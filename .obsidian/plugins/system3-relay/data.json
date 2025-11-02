@@ -24,5 +24,7 @@
   "debugging": false,
   "login": {
     "provider": "google"
-  }
+  },
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true
 }
