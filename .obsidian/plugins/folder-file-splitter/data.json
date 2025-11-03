@@ -1,5 +1,5 @@
 {
-  "openPluginViewOnStartup": true,
+  "openPluginViewOnStartup": false,
   "layoutMode": "Horizontal split",
   "showViewModeDisplay": true,
   "highlightActionBar": false,
@@ -29,6 +29,7 @@
   "autoOpenFolderNote": false,
   "folderNoteLocation": "index.md",
   "customFolderNotePath": "",
+<<<<<<< HEAD
   "folderNoteMissingBehavior": "ignore",
   "FileManualSortOrder": {
     "04 - Техническая реализация/Архитектура проекта/Assets/audio": [
@@ -42,4 +43,7 @@
   },
   "PinnedFilePaths": "[\"03 - Нарратив/Сеттинг/Расы/Список рас.md\",\"02 - Геймдизайн/Левелдизайн/Левелдизайн. Общее.md\"]",
   "PinnedFolderPaths": "[\"04 - Техническая реализация/Архитектура проекта\"]"
+=======
+  "folderNoteMissingBehavior": "ignore"
+>>>>>>> origin/main
 }
