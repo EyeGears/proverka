@@ -15551,16 +15551,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1762203115242,
-      "modifiedDate": 1762203115242,
-      "sizeInBytes": 0,
+      "modifiedDate": 1762203117257,
+      "sizeInBytes": 661,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -15568,6 +15568,57 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "MC-colors": [
+          {
+            "h": 0.5028248587570622,
+            "s": 1,
+            "l": 0.4627450980392157,
+            "area": 0.07725
+          },
+          {
+            "h": 0.03883495145631069,
+            "s": 0.45374449339207046,
+            "l": 0.4450980392156863,
+            "area": 0.00025
+          },
+          {
+            "h": 0.5327868852459017,
+            "s": 0.4728682170542637,
+            "l": 0.7470588235294118,
+            "area": 0.000625
+          },
+          {
+            "h": 0.5218068535825545,
+            "s": 0.9816513761467891,
+            "l": 0.21372549019607842,
+            "area": 0.32675
+          },
+          {
+            "h": 0.5254237288135594,
+            "s": 0.23694779116465864,
+            "l": 0.5117647058823529,
+            "area": 0.089125
+          },
+          {
+            "h": 0,
+            "s": 0,
+            "l": 0.996078431372549,
+            "area": 0.03625
+          },
+          {
+            "h": 0,
+            "s": 0,
+            "l": 0,
+            "area": 0.46975
+          }
+        ],
+        "MC-size": [
+          471,
+          460
+        ],
+        "MC-last-updated": "2025-11-03T20:51:56.675Z"
       }
     },
     "Материалы/image-24.png.sidecar.md": {
@@ -16550,6 +16601,60 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1762203118043,
+      "modifiedDate": 1762203119958,
+      "sizeInBytes": 309,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "MC-colors": [
+          {
+            "h": 0,
+            "s": 0,
+            "l": 0.43529411764705883,
+            "area": 0.04700131603684903
+          },
+          {
+            "h": 0,
+            "s": 0,
+            "l": 0.9176470588235294,
+            "area": 0.31396879112615156
+          },
+          {
+            "h": 0,
+            "s": 0,
+            "l": 0.13725490196078433,
+            "area": 0.6390298928369994
+          }
+        ],
+        "MC-size": [
+          969,
+          398
+        ],
+        "MC-last-updated": "2025-11-03T20:51:59.726Z"
+      }
+    },
+    "2025-11-03.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
       "newlineCount": 0,
@@ -16557,8 +16662,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1762203118043,
-      "modifiedDate": 1762203118043,
+      "createdDate": 1762203265997,
+      "modifiedDate": 1762203265997,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
