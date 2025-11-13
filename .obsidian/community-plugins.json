@@ -16,7 +16,9 @@
   "table-extended",
   "novel-word-count",
   "cm-typewriter-scroll-obsidian",
-  "folder-file-splitter",
   "obsidian-icon-folder",
-  "obsidian-markdown-export-plugin"
+  "obsidian-markdown-export-plugin",
+  "excel",
+  "manual-sorting",
+  "dashboard-navigator"
 ]
