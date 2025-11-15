@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: Таблица
+    filters:
+      or:
+        - file.folder == "Нарратив/Сюжет/Антагонисты"
+        - file.folder == "Нарратив/Сюжет/Протагонисты"
+        - file.folder == "Нарратив/Сюжет/Второстепенные"
+    order:
+      - file.name
+      - file.tags
+    cardSize: 300
+    imageFit: contain
+    image: note.cssclasses
