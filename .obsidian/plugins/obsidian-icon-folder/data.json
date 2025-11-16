@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiAxe"
+      "LiAlarmClockCheck",
+      "LiActivitySquare",
+      "LiArrowBigUpDash",
+      "LiAward",
+      "LiBadgeCheck"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -29,5 +33,28 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Продакшен": {
+    "iconName": "LiAirplay",
+    "iconColor": "#fff700"
+  },
+  "Нарратив": {
+    "iconName": "LiActivitySquare",
+    "iconColor": "#29f500"
+  },
+  "Техническая реализация": {
+    "iconName": "LiActivitySquare",
+    "iconColor": "#00ffd5"
+  },
+  "Задачи команды": {
+    "iconName": "LiAlarmClockCheck",
+    "iconColor": "#ff00f7"
+  },
+  "Геймдизайн": {
+    "iconName": "LiAxe",
+    "iconColor": "#ff0000"
+  },
+  "Геймдизайн/Персонажи игрока/Прокачка": "LiBadgeCheck",
+  "Геймдизайн/Персонажи игрока/Список персонажей": "LiBaby",
+  "Геймдизайн/Персонажи игрока/Прокачка/Прокачка способностей": "LiArrowBigUpDash"
 }

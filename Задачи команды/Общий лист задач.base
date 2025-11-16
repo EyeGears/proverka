@@ -1,0 +1,16 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Таблица
+    filters:
+      and:
+        - file.folder == "Задачи команды/Список задач"
+    order:
+      - file.name
+      - file.ctime
+      - file.tags
+      - Статус задачи
+    sort:
+      - property: formula.Untitled
+        direction: ASC
