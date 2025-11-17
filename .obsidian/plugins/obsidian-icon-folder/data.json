@@ -42,10 +42,6 @@
     "iconName": "LiActivitySquare",
     "iconColor": "#29f500"
   },
-  "Техническая реализация": {
-    "iconName": "LiActivitySquare",
-    "iconColor": "#00ffd5"
-  },
   "Задачи команды": {
     "iconName": "LiAlarmClockCheck",
     "iconColor": "#ff00f7"
@@ -56,5 +52,9 @@
   },
   "Геймдизайн/Персонажи игрока/Прокачка": "LiBadgeCheck",
   "Геймдизайн/Персонажи игрока/Список персонажей": "LiBaby",
-  "Геймдизайн/Персонажи игрока/Прокачка/Прокачка способностей": "LiArrowBigUpDash"
+  "Геймдизайн/Персонажи игрока/Прокачка/Прокачка способностей": "LiArrowBigUpDash",
+  "Техническая реализация": {
+    "iconName": "LiActivitySquare",
+    "iconColor": "#0078d7"
+  }
 }

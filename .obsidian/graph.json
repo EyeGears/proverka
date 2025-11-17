@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 1492492
       }
+    },
+    {
+      "query": "path:Технич",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 11.9270833333333,
   "linkStrength": 0.309895833333333,
   "linkDistance": 500,
-  "scale": 0.5359795996225702,
-  "close": true
+  "scale": 0.2726859917359948,
+  "close": false
 }
