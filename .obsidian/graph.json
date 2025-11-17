@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#🔵code  ",
@@ -34,25 +34,18 @@
         "a": 1,
         "rgb": 1492492
       }
-    },
-    {
-      "query": "path:Технич",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.9,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 2.76692708333333,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.4453125,
   "repelStrength": 11.9270833333333,
   "linkStrength": 0.309895833333333,
   "linkDistance": 500,
-  "scale": 0.2726859917359948,
+  "scale": 0.19450022690615093,
   "close": false
 }
