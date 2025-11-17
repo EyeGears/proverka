@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 1492492
       }
+    },
+    {
+      "query": "tag:#🟡MAIN_PAGE  ",
+      "color": {
+        "a": 1,
+        "rgb": 12234762
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 11.9270833333333,
   "linkStrength": 0.309895833333333,
   "linkDistance": 500,
-  "scale": 0.19450022690615093,
+  "scale": 0.27268599173599356,
   "close": false
 }

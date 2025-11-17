@@ -5,14 +5,11 @@ views:
     name: Таблица
     filters:
       and:
-        - file.folder == "Задачи команды/Список задач"
+        - file.inFolder("Задачи команды")
+        - file.hasTag("🌈task")
     order:
       - file.name
       - file.ctime
       - file.tags
       - Статус задачи
-    sort:
-      - property: file.tags
-        direction: DESC
-      - property: formula.Untitled
-        direction: ASC
+    sort: []
