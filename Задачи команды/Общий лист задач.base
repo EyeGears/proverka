@@ -12,5 +12,7 @@ views:
       - file.tags
       - Статус задачи
     sort:
+      - property: file.tags
+        direction: DESC
       - property: formula.Untitled
         direction: ASC

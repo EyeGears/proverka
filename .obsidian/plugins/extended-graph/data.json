@@ -88,24 +88,31 @@
     "collapse-color-groups": false,
     "colorGroups": [
       {
-        "query": "tag:#gamedesign  ",
+        "query": "tag:#🔵code  ",
         "color": {
           "a": 1,
-          "rgb": 14701138
+          "rgb": 30935
         }
       },
       {
-        "query": "tag:#plot ",
+        "query": "tag:#🔴plot  ",
         "color": {
           "a": 1,
-          "rgb": 14725458
+          "rgb": 15208996
         }
       },
       {
-        "query": "tag:#code  ",
+        "query": "tag:#🟠gamedesign  ",
         "color": {
           "a": 1,
-          "rgb": 11657298
+          "rgb": 16212748
+        }
+      },
+      {
+        "query": "tag:#🟢art  ",
+        "color": {
+          "a": 1,
+          "rgb": 1492492
         }
       }
     ],
@@ -119,7 +126,7 @@
     "repelStrength": 11.9270833333333,
     "linkStrength": 0.309895833333333,
     "linkDistance": 500,
-    "scale": 0.2726859917359965,
+    "scale": 0.3823010968769801,
     "close": true
   },
   "openInNewTab": false,
