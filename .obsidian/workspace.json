@@ -11,20 +11,15 @@
             "id": "2ed9fc49c5a6688e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Задачи команды/Список задач. Геймдизайн.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Продакшен/Титульная страница.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "Список задач. Геймдизайн"
+              "icon": "lucide-file",
+              "title": "Титульная страница"
             }
           },
           {
@@ -184,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Задачи команды/Список задач. Геймдизайн.md",
+                "file": "Продакшен/Титульная страница.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Список задач. Геймдизайн"
+              "title": "Обратные ссылки для Титульная страница"
             }
           },
           {
@@ -203,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Задачи команды/Список задач. Геймдизайн.md",
+                "file": "Продакшен/Титульная страница.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Список задач. Геймдизайн"
+              "title": "Исходящие ссылки из Титульная страница"
             }
           },
           {
@@ -217,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Задачи команды/Список задач. Геймдизайн.md",
+                "file": "Продакшен/Титульная страница.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Список задач. Геймдизайн"
+              "title": "Структура Титульная страница"
             }
           },
           {
@@ -309,9 +304,9 @@
   },
   "active": "2ed9fc49c5a6688e",
   "lastOpenFiles": [
+    "Задачи команды/Список задач. Геймдизайн.md",
     "Задачи команды/Список задач. Арт.md",
     "Задачи команды/Список задач. Программирование.md",
-    "Задачи команды/Список задач. Геймдизайн.md",
     "Продакшен/Титульная страница.md",
     "Нарратив/Сюжет/Список персонажей.md",
     "Нарратив/Сюжет/Протагонисты/Вивьен.md",
