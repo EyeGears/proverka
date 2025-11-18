@@ -923,16 +923,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.43666666666666665,
-      "characterCount": 2580,
+      "characterCount": 2582,
       "nonWhitespaceCharacterCount": 1436,
-      "newlineCount": 70,
+      "newlineCount": 72,
       "readingTimeInMinutes": 0.49433962264150944,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760481211564,
-      "modifiedDate": 1760845596395,
-      "sizeInBytes": 3521,
+      "modifiedDate": 1763439477786,
+      "sizeInBytes": 3625,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.43666666666666665,
@@ -940,6 +940,14 @@
         "characterCount": 2580,
         "nonWhitespaceCharacterCount": 1436,
         "newlineCount": 70
+      },
+      "frontmatter": {
+        "tags": [
+          "🟠gamedesign",
+          "combat",
+          "characters"
+        ],
+        "Персонаж": "[[Ева (Лилит)]]"
       }
     },
     "Геймдизайн/Персонажи игрока/Список персонажей/Лист персонажа. Снайпер.md": {
@@ -950,16 +958,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.41333333333333333,
-      "characterCount": 2541,
+      "characterCount": 2543,
       "nonWhitespaceCharacterCount": 1405,
-      "newlineCount": 69,
+      "newlineCount": 71,
       "readingTimeInMinutes": 0.4679245283018868,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760481211564,
-      "modifiedDate": 1760845585507,
-      "sizeInBytes": 3454,
+      "modifiedDate": 1763439440821,
+      "sizeInBytes": 3551,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.41333333333333333,
@@ -967,6 +975,14 @@
         "characterCount": 2541,
         "nonWhitespaceCharacterCount": 1405,
         "newlineCount": 69
+      },
+      "frontmatter": {
+        "tags": [
+          "🟠gamedesign",
+          "combat",
+          "characters"
+        ],
+        "Персонаж": "[[Вивьен]]"
       }
     },
     "Геймдизайн/Персонажи игрока/Список персонажей/Лист персонажа. Медик.md": {
@@ -977,16 +993,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.35333333333333333,
-      "characterCount": 2396,
+      "characterCount": 2398,
       "nonWhitespaceCharacterCount": 1280,
-      "newlineCount": 66,
+      "newlineCount": 68,
       "readingTimeInMinutes": 0.4,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760481211564,
-      "modifiedDate": 1760845567725,
-      "sizeInBytes": 3188,
+      "modifiedDate": 1763439311585,
+      "sizeInBytes": 3266,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.35333333333333333,
@@ -994,6 +1010,14 @@
         "characterCount": 2396,
         "nonWhitespaceCharacterCount": 1280,
         "newlineCount": 66
+      },
+      "frontmatter": {
+        "tags": [
+          "🟠gamedesign",
+          "characters",
+          "combat"
+        ],
+        "Персонаж": null
       }
     },
     "Геймдизайн/Персонажи игрока/Список персонажей/Лист персонажа. Дебаффер.md": {
@@ -1012,8 +1036,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760481285580,
-      "modifiedDate": 1763424620727,
-      "sizeInBytes": 3479,
+      "modifiedDate": 1763439241582,
+      "sizeInBytes": 3497,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.4066666666666667,
@@ -1027,7 +1051,8 @@
           "🟠gamedesign",
           "characters",
           "combat"
-        ]
+        ],
+        "Персонаж": null
       }
     },
     "Геймдизайн/Персонажи игрока/Список персонажей/Лист персонажа. Мечник.md": {
@@ -1038,16 +1063,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.41,
-      "characterCount": 2471,
+      "characterCount": 2473,
       "nonWhitespaceCharacterCount": 1339,
-      "newlineCount": 65,
+      "newlineCount": 67,
       "readingTimeInMinutes": 0.4641509433962264,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760481211564,
-      "modifiedDate": 1760845575752,
-      "sizeInBytes": 3379,
+      "modifiedDate": 1763439352448,
+      "sizeInBytes": 3472,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.41,
@@ -1055,6 +1080,14 @@
         "characterCount": 2471,
         "nonWhitespaceCharacterCount": 1339,
         "newlineCount": 65
+      },
+      "frontmatter": {
+        "tags": [
+          "🟠gamedesign",
+          "characters",
+          "combat"
+        ],
+        "Персонаж": "[[Алый]]"
       }
     },
     "Геймдизайн/Персонажи игрока/Список персонажей/Лист персонажа. Инженер.md": {
@@ -1065,16 +1098,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.5733333333333334,
-      "characterCount": 4096,
+      "characterCount": 4098,
       "nonWhitespaceCharacterCount": 1939,
-      "newlineCount": 68,
+      "newlineCount": 70,
       "readingTimeInMinutes": 0.6490566037735849,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760481211564,
-      "modifiedDate": 1760845557614,
-      "sizeInBytes": 5316,
+      "modifiedDate": 1763439271123,
+      "sizeInBytes": 5394,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5733333333333334,
@@ -1082,6 +1115,14 @@
         "characterCount": 4096,
         "nonWhitespaceCharacterCount": 1939,
         "newlineCount": 68
+      },
+      "frontmatter": {
+        "tags": [
+          "🟠gamedesign",
+          "combat",
+          "characters"
+        ],
+        "Персонаж": null
       }
     },
     "Геймдизайн/Персонажи игрока/Персонажи игрока. Общее.md": {
