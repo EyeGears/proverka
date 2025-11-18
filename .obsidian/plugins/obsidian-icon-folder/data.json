@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiApple",
       "LiAlarmClockCheck",
       "LiActivitySquare",
       "LiArrowBigUpDash",
-      "LiAward",
-      "LiBadgeCheck"
+      "LiAward"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,15 +40,11 @@
   },
   "Нарратив": {
     "iconName": "LiActivitySquare",
-    "iconColor": "#29f500"
-  },
-  "Задачи команды": {
-    "iconName": "LiAlarmClockCheck",
-    "iconColor": "#ff00f7"
+    "iconColor": "#f50000"
   },
   "Геймдизайн": {
     "iconName": "LiAxe",
-    "iconColor": "#ff0000"
+    "iconColor": "#ff7b00"
   },
   "Геймдизайн/Персонажи игрока/Прокачка": "LiBadgeCheck",
   "Геймдизайн/Персонажи игрока/Список персонажей": "LiBaby",
@@ -56,5 +52,13 @@
   "Техническая реализация": {
     "iconName": "LiActivitySquare",
     "iconColor": "#0078d7"
+  },
+  "Арт": {
+    "iconName": "LiApple",
+    "iconColor": "#00ff2a"
+  },
+  "Задачи команды": {
+    "iconName": "LiAlarmClockCheck",
+    "iconColor": "#ff00f7"
   }
 }

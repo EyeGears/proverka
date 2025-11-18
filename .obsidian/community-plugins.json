@@ -8,7 +8,6 @@
   "tldraw",
   "obsidian-git",
   "copilot",
-  "novel-word-count",
   "excel",
   "dashboard-navigator",
   "obsidian-icon-folder",
@@ -18,5 +17,8 @@
   "table-extended",
   "obsidian-image-gallery",
   "image-converter",
-  "obsidian-image-layouts"
+  "obsidian-image-layouts",
+  "better-word-count",
+  "novel-word-count",
+  "various-complements"
 ]
