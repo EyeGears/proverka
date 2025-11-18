@@ -671,20 +671,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 34,
+      "wordCount": 33,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.11333333333333333,
-      "characterCount": 360,
-      "nonWhitespaceCharacterCount": 311,
+      "pageCount": 0.11,
+      "characterCount": 352,
+      "nonWhitespaceCharacterCount": 304,
       "newlineCount": 26,
-      "readingTimeInMinutes": 0.12830188679245283,
+      "readingTimeInMinutes": 0.12452830188679245,
       "linkCount": 9,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1763420361985,
-      "modifiedDate": 1763427911802,
-      "sizeInBytes": 647,
+      "modifiedDate": 1763428974900,
+      "sizeInBytes": 632,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.056666666666666664,
@@ -2200,66 +2200,6 @@
         "newlineCount": 29
       }
     },
-    "Геймдизайн/Враги игрока/Список врагов.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 13,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.043333333333333335,
-      "characterCount": 96,
-      "nonWhitespaceCharacterCount": 78,
-      "newlineCount": 7,
-      "readingTimeInMinutes": 0.04905660377358491,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1760146706184,
-      "modifiedDate": 1763422839088,
-      "sizeInBytes": 209,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.043333333333333335,
-        "wordCount": 13,
-        "characterCount": 94,
-        "nonWhitespaceCharacterCount": 78,
-        "newlineCount": 5
-      },
-      "frontmatter": {
-        "tags": [
-          "🟠gamedesign",
-          "enemy_code"
-        ]
-      }
-    },
-    "Геймдизайн/Враги игрока/Боссфайты.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 90,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3,
-      "characterCount": 632,
-      "nonWhitespaceCharacterCount": 537,
-      "newlineCount": 12,
-      "readingTimeInMinutes": 0.33962264150943394,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759802682785,
-      "modifiedDate": 1763421518185,
-      "sizeInBytes": 1143,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.3,
-        "wordCount": 90,
-        "characterCount": 632,
-        "nonWhitespaceCharacterCount": 537,
-        "newlineCount": 12
-      }
-    },
     "Базы данных/Список способностей врага.base": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2698,41 +2638,6 @@
         ]
       }
     },
-    "Продакшен/Титульная страница.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 45,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.15,
-      "characterCount": 501,
-      "nonWhitespaceCharacterCount": 447,
-      "newlineCount": 25,
-      "readingTimeInMinutes": 0.16981132075471697,
-      "linkCount": 14,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1763063571117,
-      "modifiedDate": 1763427497063,
-      "sizeInBytes": 883,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.13333333333333333,
-        "wordCount": 40,
-        "characterCount": 469,
-        "nonWhitespaceCharacterCount": 420,
-        "newlineCount": 24
-      },
-      "frontmatter": {
-        "cssclasses": [
-          "43afa4720779991c47e51901a573121a-3.jpg"
-        ],
-        "tags": [
-          "🟡MAIN_PAGE"
-        ]
-      }
-    },
     "Продакшен/Референсы.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2758,38 +2663,6 @@
         "characterCount": 490,
         "nonWhitespaceCharacterCount": 418,
         "newlineCount": 9
-      },
-      "frontmatter": {
-        "tags": [
-          "🟡MAIN_PAGE"
-        ]
-      }
-    },
-    "Продакшен/Описание игры.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 113,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.37666666666666665,
-      "characterCount": 3439,
-      "nonWhitespaceCharacterCount": 1155,
-      "newlineCount": 21,
-      "readingTimeInMinutes": 0.42641509433962266,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759782534071,
-      "modifiedDate": 1763422150787,
-      "sizeInBytes": 4248,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.37666666666666665,
-        "wordCount": 113,
-        "characterCount": 3439,
-        "nonWhitespaceCharacterCount": 1155,
-        "newlineCount": 21
       },
       "frontmatter": {
         "tags": [
@@ -3229,16 +3102,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.5533333333333332,
-      "characterCount": 5189,
+      "characterCount": 5191,
       "nonWhitespaceCharacterCount": 4312,
-      "newlineCount": 68,
+      "newlineCount": 70,
       "readingTimeInMinutes": 2.890566037735849,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1759792097850,
-      "modifiedDate": 1760143051355,
-      "sizeInBytes": 9257,
+      "modifiedDate": 1763429156100,
+      "sizeInBytes": 9298,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.5533333333333332,
@@ -3246,6 +3119,12 @@
         "characterCount": 5189,
         "nonWhitespaceCharacterCount": 4312,
         "newlineCount": 68
+      },
+      "frontmatter": {
+        "tags": [
+          "🔴plot",
+          "#write"
+        ]
       }
     },
     "Нарратив/Сюжет/Общий нарратив игры.md": {
@@ -3288,16 +3167,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.07,
-      "characterCount": 270,
+      "characterCount": 272,
       "nonWhitespaceCharacterCount": 245,
-      "newlineCount": 13,
+      "newlineCount": 15,
       "readingTimeInMinutes": 0.07924528301886792,
       "linkCount": 1,
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1760496748776,
-      "modifiedDate": 1763192304010,
-      "sizeInBytes": 456,
+      "modifiedDate": 1763428214672,
+      "sizeInBytes": 499,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.07,
@@ -3305,6 +3184,12 @@
         "characterCount": 270,
         "nonWhitespaceCharacterCount": 245,
         "newlineCount": 13
+      },
+      "frontmatter": {
+        "tags": [
+          "🔴plot",
+          "characters"
+        ]
       }
     },
     "Нарратив/Сюжет/Антагонисты/Господин.md": {
@@ -4117,20 +4002,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 8,
+      "wordCount": 10,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 72,
-      "nonWhitespaceCharacterCount": 60,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.03018867924528302,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 96,
+      "nonWhitespaceCharacterCount": 79,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.03773584905660377,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760197781904,
-      "modifiedDate": 1763427219382,
-      "sizeInBytes": 151,
+      "modifiedDate": 1763428165976,
+      "sizeInBytes": 189,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.016666666666666666,
@@ -4150,20 +4035,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 8,
+      "wordCount": 10,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 75,
-      "nonWhitespaceCharacterCount": 61,
-      "newlineCount": 8,
-      "readingTimeInMinutes": 0.03018867924528302,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 99,
+      "nonWhitespaceCharacterCount": 80,
+      "newlineCount": 10,
+      "readingTimeInMinutes": 0.03773584905660377,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760197693426,
-      "modifiedDate": 1763427270181,
-      "sizeInBytes": 155,
+      "modifiedDate": 1763428143525,
+      "sizeInBytes": 193,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.016666666666666666,
@@ -4183,20 +4068,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 7,
+      "wordCount": 9,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 58,
-      "nonWhitespaceCharacterCount": 48,
-      "newlineCount": 5,
-      "readingTimeInMinutes": 0.026415094339622643,
+      "pageCount": 0.03,
+      "characterCount": 82,
+      "nonWhitespaceCharacterCount": 67,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.033962264150943396,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760197781904,
-      "modifiedDate": 1763427231898,
-      "sizeInBytes": 130,
+      "modifiedDate": 1763428159096,
+      "sizeInBytes": 168,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.013333333333333334,
@@ -22578,6 +22463,165 @@
       "createdDate": 1763427541880,
       "modifiedDate": 1763427714590,
       "sizeInBytes": 213,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Геймдизайн/Враги игрока/Враги.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 110,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.36666666666666664,
+      "characterCount": 811,
+      "nonWhitespaceCharacterCount": 685,
+      "newlineCount": 25,
+      "readingTimeInMinutes": 0.41509433962264153,
+      "linkCount": 0,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1760146706184,
+      "modifiedDate": 1763429006297,
+      "sizeInBytes": 1486,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🟠gamedesign",
+          "enemy_gdd"
+        ]
+      }
+    },
+    "Нарратив/Сеттинг/Описание игры.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 113,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.37666666666666665,
+      "characterCount": 3439,
+      "nonWhitespaceCharacterCount": 1155,
+      "newlineCount": 21,
+      "readingTimeInMinutes": 0.42641509433962266,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759782534071,
+      "modifiedDate": 1763422150787,
+      "sizeInBytes": 4248,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🟡MAIN_PAGE"
+        ]
+      }
+    },
+    "Продакшен/Описание игры.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 113,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.37666666666666665,
+      "characterCount": 3459,
+      "nonWhitespaceCharacterCount": 1155,
+      "newlineCount": 21,
+      "readingTimeInMinutes": 0.42641509433962266,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763435753356,
+      "modifiedDate": 1763435806169,
+      "sizeInBytes": 4271,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🟡MAIN_PAGE"
+        ]
+      }
+    },
+    "Геймдизайн/Боевая система/Титульная страница.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 45,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15,
+      "characterCount": 501,
+      "nonWhitespaceCharacterCount": 447,
+      "newlineCount": 25,
+      "readingTimeInMinutes": 0.16981132075471697,
+      "linkCount": 14,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1763063571117,
+      "modifiedDate": 1763427497063,
+      "sizeInBytes": 883,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": [
+          "43afa4720779991c47e51901a573121a-3.jpg"
+        ],
+        "tags": [
+          "🟡MAIN_PAGE"
+        ]
+      }
+    },
+    "Продакшен/Титульная страница.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 49,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 614,
+      "nonWhitespaceCharacterCount": 520,
+      "newlineCount": 30,
+      "readingTimeInMinutes": 0.18490566037735848,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763435815625,
+      "modifiedDate": 1763435815625,
+      "sizeInBytes": 912,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
