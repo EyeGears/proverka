@@ -671,20 +671,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 33,
+      "wordCount": 38,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.11,
-      "characterCount": 352,
-      "nonWhitespaceCharacterCount": 304,
-      "newlineCount": 26,
-      "readingTimeInMinutes": 0.12452830188679245,
-      "linkCount": 9,
+      "pageCount": 0.12666666666666668,
+      "characterCount": 411,
+      "nonWhitespaceCharacterCount": 359,
+      "newlineCount": 27,
+      "readingTimeInMinutes": 0.14339622641509434,
+      "linkCount": 12,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1763420361985,
-      "modifiedDate": 1763428974900,
-      "sizeInBytes": 632,
+      "modifiedDate": 1763436355143,
+      "sizeInBytes": 732,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.056666666666666664,
@@ -1589,20 +1589,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 29,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 246,
+      "nonWhitespaceCharacterCount": 212,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 0.10943396226415095,
       "linkCount": 0,
-      "embedCount": 0,
+      "embedCount": 5,
       "aliases": null,
       "createdDate": 1759848864126,
-      "modifiedDate": 1759848864126,
-      "sizeInBytes": 0,
+      "modifiedDate": 1763437466614,
+      "sizeInBytes": 409,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
@@ -1610,6 +1610,12 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🟠gamedesign",
+          "level"
+        ]
       }
     },
     "Геймдизайн/Левелдизайн/Объекты на клетках.md": {
@@ -1682,20 +1688,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 87,
+      "wordCount": 92,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.29,
-      "characterCount": 644,
-      "nonWhitespaceCharacterCount": 549,
-      "newlineCount": 11,
-      "readingTimeInMinutes": 0.3283018867924528,
-      "linkCount": 3,
+      "pageCount": 0.30666666666666664,
+      "characterCount": 691,
+      "nonWhitespaceCharacterCount": 589,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 0.3471698113207547,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1761034746112,
-      "modifiedDate": 1763423345199,
-      "sizeInBytes": 1183,
+      "modifiedDate": 1763438225844,
+      "sizeInBytes": 1260,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.29,
@@ -2096,20 +2102,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 30,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 4,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 5,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.1,
+      "characterCount": 1007,
+      "nonWhitespaceCharacterCount": 357,
+      "newlineCount": 36,
+      "readingTimeInMinutes": 0.11320754716981132,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760146803630,
-      "modifiedDate": 1762262475174,
-      "sizeInBytes": 4,
+      "modifiedDate": 1763438811889,
+      "sizeInBytes": 1337,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
@@ -2117,26 +2123,36 @@
         "characterCount": 4,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 5
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "enemy_gdd",
+          "🟠gamedesign"
+        ],
+        "Основная страница": [
+          "[[Враги]]"
+        ]
       }
     },
     "Геймдизайн/Враги игрока/Листы врагов/Зомби.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 53,
+      "wordCount": 51,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.17666666666666667,
-      "characterCount": 1600,
-      "nonWhitespaceCharacterCount": 615,
-      "newlineCount": 46,
-      "readingTimeInMinutes": 0.2,
+      "pageCount": 0.17,
+      "characterCount": 1583,
+      "nonWhitespaceCharacterCount": 598,
+      "newlineCount": 47,
+      "readingTimeInMinutes": 0.19245283018867926,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760146800553,
-      "modifiedDate": 1763422864530,
-      "sizeInBytes": 1982,
+      "modifiedDate": 1763438834419,
+      "sizeInBytes": 2077,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.17666666666666667,
@@ -2144,6 +2160,16 @@
         "characterCount": 1601,
         "nonWhitespaceCharacterCount": 616,
         "newlineCount": 46
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "enemy_gdd",
+          "🟠gamedesign"
+        ],
+        "Основная страница": [
+          "[[Враги]]"
+        ]
       }
     },
     "Геймдизайн/Враги игрока/Листы врагов/Божество.md": {
@@ -2171,33 +2197,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "Геймдизайн/Враги игрока/Усиления.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 140,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4666666666666667,
-      "characterCount": 1022,
-      "nonWhitespaceCharacterCount": 865,
-      "newlineCount": 29,
-      "readingTimeInMinutes": 0.5283018867924528,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1760143970672,
-      "modifiedDate": 1760144063770,
-      "sizeInBytes": 1825,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.4666666666666667,
-        "wordCount": 140,
-        "characterCount": 1022,
-        "nonWhitespaceCharacterCount": 865,
-        "newlineCount": 29
       }
     },
     "Базы данных/Список способностей врага.base": {
@@ -2281,49 +2280,6 @@
         "newlineCount": 0
       }
     },
-    "Базы данных/Задача. Шаблон.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1760018294624,
-      "modifiedDate": 1763398136614,
-      "sizeInBytes": 278,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 1,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 2
-      },
-      "frontmatter": {
-        "cssclasses": null,
-        "tags": [
-          "#🌈task",
-          "🟠gamedesign"
-        ],
-        "Статус задачи": [
-          "Выполнена ✔️",
-          "В работе ❕",
-          "Пауза ⏸️",
-          "Отменена ❌",
-          "Запланирована 🟨",
-          "Черновик ◐",
-          "В ожидании ❔"
-        ]
-      }
-    },
     "Базы данных/Список персонажей. Второстепенные.base": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2403,60 +2359,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "Базы данных/Лист локаций.base": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763135262569,
-      "modifiedDate": 1763135384770,
-      "sizeInBytes": 113,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Базы данных/Шкала Кардашева.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 734,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.4466666666666668,
-      "characterCount": 6800,
-      "nonWhitespaceCharacterCount": 6011,
-      "newlineCount": 62,
-      "readingTimeInMinutes": 2.769811320754717,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759801846952,
-      "modifiedDate": 1759803811201,
-      "sizeInBytes": 11864,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.4466666666666668,
-        "wordCount": 734,
-        "characterCount": 6800,
-        "nonWhitespaceCharacterCount": 6011,
-        "newlineCount": 62
       }
     },
     "Базы данных/Лист персонажей.base": {
@@ -2610,20 +2512,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 247,
+      "wordCount": 272,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.8233333333333334,
-      "characterCount": 1822,
-      "nonWhitespaceCharacterCount": 1562,
+      "pageCount": 0.9066666666666666,
+      "characterCount": 1989,
+      "nonWhitespaceCharacterCount": 1703,
       "newlineCount": 22,
-      "readingTimeInMinutes": 0.9320754716981132,
+      "readingTimeInMinutes": 1.0264150943396226,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1763418696259,
-      "modifiedDate": 1763425423497,
-      "sizeInBytes": 3223,
+      "modifiedDate": 1763435936734,
+      "sizeInBytes": 3516,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.4866666666666667,
@@ -21352,8 +21254,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1761192434241,
-      "modifiedDate": 1763419518732,
-      "sizeInBytes": 803,
+      "modifiedDate": 1763438782271,
+      "sizeInBytes": 870,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.06,
@@ -21363,9 +21265,13 @@
         "newlineCount": 20
       },
       "frontmatter": {
+        "cssclasses": null,
         "tags": [
           "🟠gamedesign",
-          "enemy_code"
+          "enemy_gdd"
+        ],
+        "Основная страница": [
+          "[[Враги]]"
         ]
       }
     },
@@ -21385,8 +21291,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1761190449699,
-      "modifiedDate": 1763421576771,
-      "sizeInBytes": 523,
+      "modifiedDate": 1763438759945,
+      "sizeInBytes": 578,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.04,
@@ -21398,36 +21304,12 @@
       "frontmatter": {
         "cssclasses": null,
         "tags": [
-          "enemy_code",
+          "enemy_gdd",
           "🟠gamedesign"
+        ],
+        "Основная страница": [
+          "[[Враги]]"
         ]
-      }
-    },
-    "Черновик.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2643,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 8.81,
-      "characterCount": 18271,
-      "nonWhitespaceCharacterCount": 15327,
-      "newlineCount": 540,
-      "readingTimeInMinutes": 9.973584905660378,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1761191729103,
-      "modifiedDate": 1762977799529,
-      "sizeInBytes": 32744,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 8.81,
-        "wordCount": 2643,
-        "characterCount": 18271,
-        "nonWhitespaceCharacterCount": 15327,
-        "newlineCount": 540
       }
     },
     "copilot/copilot-custom-prompts/Rewrite as tweet.md": {
@@ -22472,39 +22354,6 @@
         "newlineCount": 0
       }
     },
-    "Геймдизайн/Враги игрока/Враги.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 110,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.36666666666666664,
-      "characterCount": 811,
-      "nonWhitespaceCharacterCount": 685,
-      "newlineCount": 25,
-      "readingTimeInMinutes": 0.41509433962264153,
-      "linkCount": 0,
-      "embedCount": 2,
-      "aliases": null,
-      "createdDate": 1760146706184,
-      "modifiedDate": 1763429006297,
-      "sizeInBytes": 1486,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "tags": [
-          "🟠gamedesign",
-          "enemy_gdd"
-        ]
-      }
-    },
     "Нарратив/Сеттинг/Описание игры.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -22569,7 +22418,7 @@
         ]
       }
     },
-    "Геймдизайн/Боевая система/Титульная страница.md": {
+    "Продакшен/Титульная страница.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -22584,8 +22433,8 @@
       "linkCount": 14,
       "embedCount": 1,
       "aliases": null,
-      "createdDate": 1763063571117,
-      "modifiedDate": 1763427497063,
+      "createdDate": 1763435815625,
+      "modifiedDate": 1763436310116,
       "sizeInBytes": 883,
       "sessionStart": {
         "noteCount": 0,
@@ -22604,24 +22453,24 @@
         ]
       }
     },
-    "Продакшен/Титульная страница.md": {
+    "Геймдизайн/Левелдизайн/Листы уровней/1-1.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 49,
+      "wordCount": 6,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.16333333333333333,
-      "characterCount": 614,
-      "nonWhitespaceCharacterCount": 520,
-      "newlineCount": 30,
-      "readingTimeInMinutes": 0.18490566037735848,
+      "pageCount": 0.02,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 34,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.022641509433962263,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1763435815625,
-      "modifiedDate": 1763435815625,
-      "sizeInBytes": 912,
+      "createdDate": 1763436619581,
+      "modifiedDate": 1763438129685,
+      "sizeInBytes": 202,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -22629,6 +22478,540 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🟠gamedesign",
+          "level"
+        ],
+        "Основная страница": [
+          "[[Список уровней]]"
+        ]
+      }
+    },
+    "Геймдизайн/Левелдизайн/Листы уровней/1-2.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 34,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763436619581,
+      "modifiedDate": 1763438123481,
+      "sizeInBytes": 202,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🟠gamedesign",
+          "level"
+        ],
+        "Основная страница": [
+          "[[Список уровней]]"
+        ]
+      }
+    },
+    "Базы данных/Список уровней Акт2.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763436865266,
+      "modifiedDate": 1763436938320,
+      "sizeInBytes": 255,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Базы данных/Список уровней Акт1.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763436513028,
+      "modifiedDate": 1763436975469,
+      "sizeInBytes": 268,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Базы данных/Список уровней Акт3.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763437044010,
+      "modifiedDate": 1763437145023,
+      "sizeInBytes": 255,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Базы данных/Список уровней Акт4.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763437040659,
+      "modifiedDate": 1763437150252,
+      "sizeInBytes": 255,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Базы данных/Список уровней Акт5.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763437033107,
+      "modifiedDate": 1763437155570,
+      "sizeInBytes": 255,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Геймдизайн/Левелдизайн/Листы уровней/2-1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 34,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763437107374,
+      "modifiedDate": 1763438116651,
+      "sizeInBytes": 202,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🟠gamedesign",
+          "level"
+        ],
+        "Основная страница": [
+          "[[Список уровней]]"
+        ]
+      }
+    },
+    "Геймдизайн/Левелдизайн/Листы уровней/2-2.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 34,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763437157304,
+      "modifiedDate": 1763438107766,
+      "sizeInBytes": 202,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🟠gamedesign",
+          "level"
+        ],
+        "Основная страница": [
+          "[[Список уровней]]"
+        ]
+      }
+    },
+    "Геймдизайн/Левелдизайн/Листы уровней/3-1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 34,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763437157304,
+      "modifiedDate": 1763438098291,
+      "sizeInBytes": 202,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🟠gamedesign",
+          "level"
+        ],
+        "Основная страница": [
+          "[[Список уровней]]"
+        ]
+      }
+    },
+    "Геймдизайн/Левелдизайн/Листы уровней/4-1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 34,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763437157304,
+      "modifiedDate": 1763438088202,
+      "sizeInBytes": 202,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🟠gamedesign",
+          "level"
+        ],
+        "Основная страница": [
+          "[[Список уровней]]"
+        ]
+      }
+    },
+    "Геймдизайн/Левелдизайн/Листы уровней/5-1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 34,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763437157304,
+      "modifiedDate": 1763438081286,
+      "sizeInBytes": 202,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🟠gamedesign",
+          "level"
+        ],
+        "Основная страница": [
+          "[[Список уровней]]"
+        ]
+      }
+    },
+    "Шаблон/Шаблон левелдизайна.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 34,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763437633654,
+      "modifiedDate": 1763438069533,
+      "sizeInBytes": 202,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🟠gamedesign",
+          "level"
+        ],
+        "Основная страница": [
+          "[[Список уровней]]"
+        ]
+      }
+    },
+    "Шаблон/Задача. Шаблон.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1760018294624,
+      "modifiedDate": 1763398136614,
+      "sizeInBytes": 278,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "#🌈task",
+          "🟠gamedesign"
+        ],
+        "Статус задачи": [
+          "Выполнена ✔️",
+          "В работе ❕",
+          "Пауза ⏸️",
+          "Отменена ❌",
+          "Запланирована 🟨",
+          "Черновик ◐",
+          "В ожидании ❔"
+        ]
+      }
+    },
+    "Материалы (свалка)/Шкала Кардашева.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 734,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.4466666666666668,
+      "characterCount": 6800,
+      "nonWhitespaceCharacterCount": 6011,
+      "newlineCount": 62,
+      "readingTimeInMinutes": 2.769811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759801846952,
+      "modifiedDate": 1759803811201,
+      "sizeInBytes": 11864,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Шаблон/Черновик.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2783,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 9.276666666666667,
+      "characterCount": 19293,
+      "nonWhitespaceCharacterCount": 16192,
+      "newlineCount": 569,
+      "readingTimeInMinutes": 10.50188679245283,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1761191729103,
+      "modifiedDate": 1763436061365,
+      "sizeInBytes": 34569,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Геймдизайн/Враги игрока/Враги.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 110,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.36666666666666664,
+      "characterCount": 811,
+      "nonWhitespaceCharacterCount": 685,
+      "newlineCount": 25,
+      "readingTimeInMinutes": 0.41509433962264153,
+      "linkCount": 0,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1760146706184,
+      "modifiedDate": 1763429006297,
+      "sizeInBytes": 1486,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🟠gamedesign",
+          "enemy_gdd"
+        ]
       }
     }
   }

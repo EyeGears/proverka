@@ -1,0 +1,10 @@
+views:
+  - type: cards
+    name: Таблица
+    filters:
+      and:
+        - file.folder == "Геймдизайн/Левелдизайн/Листы уровней"
+        - file.name.startsWith("3-")
+    order:
+      - file.name
+      - file.folder
