@@ -815,16 +815,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.4,
-      "characterCount": 2636,
+      "characterCount": 2638,
       "nonWhitespaceCharacterCount": 1068,
-      "newlineCount": 45,
+      "newlineCount": 47,
       "readingTimeInMinutes": 0.4528301886792453,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1759802519498,
-      "modifiedDate": 1761034234244,
-      "sizeInBytes": 3367,
+      "modifiedDate": 1763513499136,
+      "sizeInBytes": 3401,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.4,
@@ -832,6 +832,11 @@
         "characterCount": 2636,
         "nonWhitespaceCharacterCount": 1068,
         "newlineCount": 45
+      },
+      "frontmatter": {
+        "tags": [
+          "🟠gamedesign"
+        ]
       }
     },
     "Геймдизайн/Системы и переменные/Золото.md": {
@@ -2002,20 +2007,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 380,
+      "wordCount": 383,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.2666666666666666,
-      "characterCount": 2894,
-      "nonWhitespaceCharacterCount": 2437,
-      "newlineCount": 48,
-      "readingTimeInMinutes": 1.4339622641509433,
-      "linkCount": 0,
+      "pageCount": 1.2766666666666666,
+      "characterCount": 2930,
+      "nonWhitespaceCharacterCount": 2468,
+      "newlineCount": 50,
+      "readingTimeInMinutes": 1.4452830188679244,
+      "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1760142092312,
-      "modifiedDate": 1763422766805,
-      "sizeInBytes": 5270,
+      "modifiedDate": 1763513486062,
+      "sizeInBytes": 5332,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.2666666666666666,
