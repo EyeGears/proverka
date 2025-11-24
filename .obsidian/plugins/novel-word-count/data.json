@@ -563,16 +563,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.0033333333333333335,
-      "characterCount": 7,
+      "characterCount": 8,
       "nonWhitespaceCharacterCount": 7,
-      "newlineCount": 1,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0.0037735849056603774,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760845392687,
-      "modifiedDate": 1763397520454,
-      "sizeInBytes": 9,
+      "modifiedDate": 1763970763701,
+      "sizeInBytes": 10,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.0033333333333333335,
@@ -2278,20 +2278,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 30,
+      "wordCount": 31,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.1,
-      "characterCount": 293,
-      "nonWhitespaceCharacterCount": 247,
-      "newlineCount": 23,
-      "readingTimeInMinutes": 0.11320754716981132,
-      "linkCount": 7,
-      "embedCount": 2,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 321,
+      "nonWhitespaceCharacterCount": 269,
+      "newlineCount": 28,
+      "readingTimeInMinutes": 0.1169811320754717,
+      "linkCount": 6,
+      "embedCount": 3,
       "aliases": null,
       "createdDate": 1763420409121,
-      "modifiedDate": 1763950647506,
-      "sizeInBytes": 579,
+      "modifiedDate": 1763971212814,
+      "sizeInBytes": 623,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.1,
@@ -20536,8 +20536,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760193515656,
-      "modifiedDate": 1763950395900,
-      "sizeInBytes": 3485,
+      "modifiedDate": 1763970862679,
+      "sizeInBytes": 3551,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.4,
@@ -20551,6 +20551,9 @@
         "tags": [
           "🔵code",
           "var"
+        ],
+        "Основная страница": [
+          "[[Переменные]]"
         ]
       }
     },
@@ -20570,8 +20573,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1759802869988,
-      "modifiedDate": 1763950373114,
-      "sizeInBytes": 3488,
+      "modifiedDate": 1763970873913,
+      "sizeInBytes": 3554,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.4,
@@ -20585,7 +20588,10 @@
           "🔵code",
           "#var"
         ],
-        "cssclasses": null
+        "cssclasses": null,
+        "Основная страница": [
+          "[[Переменные]]"
+        ]
       }
     },
     "Геймдизайн/Системы и переменные/Характеристики персонажей.md": {
@@ -23155,16 +23161,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.12666666666666668,
-      "characterCount": 465,
-      "nonWhitespaceCharacterCount": 400,
-      "newlineCount": 29,
+      "characterCount": 468,
+      "nonWhitespaceCharacterCount": 404,
+      "newlineCount": 28,
       "readingTimeInMinutes": 0.14339622641509434,
       "linkCount": 0,
       "embedCount": 5,
       "aliases": null,
       "createdDate": 1763420423073,
-      "modifiedDate": 1763970656781,
-      "sizeInBytes": 941,
+      "modifiedDate": 1763970722704,
+      "sizeInBytes": 944,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -23382,6 +23388,33 @@
       "createdDate": 1763950905735,
       "modifiedDate": 1763955842391,
       "sizeInBytes": 224,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Нарратив/Без названия.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763971036752,
+      "modifiedDate": 1763971262522,
+      "sizeInBytes": 528,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

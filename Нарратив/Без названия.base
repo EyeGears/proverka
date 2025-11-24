@@ -1,0 +1,15 @@
+views:
+  - type: cards
+    name: Таблица
+    filters:
+      and:
+        - file.folder != "Нарратив/Сеттинг/Кольца"
+        - file.folder != "Нарратив/Сеттинг/Локации"
+        - file.folder != "Нарратив/Сеттинг/Предметы"
+        - file.folder == "Нарратив/Сеттинг"
+        - file.name != "Мир Трилока. Общее"
+        - file.name != "Описание игры"
+    order:
+      - file.name
+      - file.path
+      - file.tags
