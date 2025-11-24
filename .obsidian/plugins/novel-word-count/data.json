@@ -319,65 +319,6 @@
         "newlineCount": 569
       }
     },
-    "Техническая реализация/Структура игры/Схема игры.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1761749803752,
-      "modifiedDate": 1761749803752,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Техническая реализация/Техническая реализация.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1763420423073,
-      "modifiedDate": 1763420635137,
-      "sizeInBytes": 32,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 1,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 2
-      },
-      "frontmatter": {
-        "tags": [
-          "🟡MAIN_PAGE"
-        ]
-      }
-    },
     "Техническая реализация/Саунддизайн.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -544,20 +485,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 7,
-      "nonWhitespaceCharacterCount": 7,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.0037735849056603774,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760844258745,
-      "modifiedDate": 1763397520502,
-      "sizeInBytes": 9,
+      "modifiedDate": 1763956048555,
+      "sizeInBytes": 120,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.0033333333333333335,
@@ -565,6 +506,16 @@
         "characterCount": 7,
         "nonWhitespaceCharacterCount": 7,
         "newlineCount": 1
+      },
+      "frontmatter": {
+        "tags": [
+          "🔵code",
+          "enemy_gdd"
+        ],
+        "cssclasses": null,
+        "Основная страница": [
+          "[[Переменные]]"
+        ]
       }
     },
     "Техническая реализация/Разработка персонажей/Техдок. Танк.md": {
@@ -934,7 +885,7 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1763435815625,
-      "modifiedDate": 1763436310116,
+      "modifiedDate": 1763951343216,
       "sizeInBytes": 883,
       "sessionStart": {
         "noteCount": 1,
@@ -2329,8 +2280,8 @@
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1763420409121,
-      "modifiedDate": 1763427616606,
-      "sizeInBytes": 498,
+      "modifiedDate": 1763950647506,
+      "sizeInBytes": 579,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.1,
@@ -2342,6 +2293,9 @@
       "frontmatter": {
         "tags": [
           "🟡MAIN_PAGE"
+        ],
+        "Основная страница": [
+          "[[Титульная страница]]"
         ]
       }
     },
@@ -20564,16 +20518,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.4,
-      "characterCount": 2556,
+      "characterCount": 2558,
       "nonWhitespaceCharacterCount": 1192,
-      "newlineCount": 17,
+      "newlineCount": 19,
       "readingTimeInMinutes": 0.4528301886792453,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760193515656,
-      "modifiedDate": 1760193512245,
-      "sizeInBytes": 3437,
+      "modifiedDate": 1763950395900,
+      "sizeInBytes": 3485,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.4,
@@ -20581,6 +20535,13 @@
         "characterCount": 2556,
         "nonWhitespaceCharacterCount": 1192,
         "newlineCount": 17
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🔵code",
+          "var"
+        ]
       }
     },
     "Геймдизайн/Системы и переменные/Характеристики способностей врагов.md": {
@@ -20591,16 +20552,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.4,
-      "characterCount": 2556,
+      "characterCount": 2558,
       "nonWhitespaceCharacterCount": 1192,
-      "newlineCount": 17,
+      "newlineCount": 19,
       "readingTimeInMinutes": 0.4528301886792453,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1759802869988,
-      "modifiedDate": 1760193512245,
-      "sizeInBytes": 3437,
+      "modifiedDate": 1763950373114,
+      "sizeInBytes": 3488,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.4,
@@ -20608,6 +20569,13 @@
         "characterCount": 2556,
         "nonWhitespaceCharacterCount": 1192,
         "newlineCount": 17
+      },
+      "frontmatter": {
+        "tags": [
+          "🔵code",
+          "#var"
+        ],
+        "cssclasses": null
       }
     },
     "Геймдизайн/Системы и переменные/Характеристики персонажей.md": {
@@ -20618,16 +20586,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.7633333333333333,
-      "characterCount": 1823,
+      "characterCount": 1825,
       "nonWhitespaceCharacterCount": 1559,
-      "newlineCount": 30,
+      "newlineCount": 32,
       "readingTimeInMinutes": 0.8641509433962264,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1759802869988,
-      "modifiedDate": 1760491192748,
-      "sizeInBytes": 3285,
+      "modifiedDate": 1763950543392,
+      "sizeInBytes": 3420,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.7633333333333333,
@@ -20635,6 +20603,15 @@
         "characterCount": 1823,
         "nonWhitespaceCharacterCount": 1559,
         "newlineCount": 30
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🟠gamedesign"
+        ],
+        "Основная страница": [
+          "[[Техническая реализация]]"
+        ]
       }
     },
     "Геймдизайн/Системы и переменные/Управление игрока.md": {
@@ -22041,8 +22018,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1763420361985,
-      "modifiedDate": 1763436355143,
-      "sizeInBytes": 732,
+      "modifiedDate": 1763950600060,
+      "sizeInBytes": 813,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.12666666666666668,
@@ -22054,6 +22031,9 @@
       "frontmatter": {
         "tags": [
           "#🟡MAIN_PAGE"
+        ],
+        "Основная страница": [
+          "[[Титульная страница]]"
         ]
       }
     },
@@ -22447,8 +22427,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1763425013649,
-      "modifiedDate": 1763425055682,
-      "sizeInBytes": 137,
+      "modifiedDate": 1763950664048,
+      "sizeInBytes": 218,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.02666666666666667,
@@ -22460,6 +22440,9 @@
       "frontmatter": {
         "tags": [
           "🟡MAIN_PAGE"
+        ],
+        "Основная страница": [
+          "[[Титульная страница]]"
         ]
       }
     },
@@ -23078,6 +23061,293 @@
       "createdDate": 1763793526573,
       "modifiedDate": 1763793760443,
       "sizeInBytes": 48,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Базы данных/Переменные для игры.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763950212817,
+      "modifiedDate": 1763952100599,
+      "sizeInBytes": 157,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Техническая реализация/Структура игры/Схема игры.canvas": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763950843391,
+      "modifiedDate": 1763950876092,
+      "sizeInBytes": 2,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Техническая реализация/Без названия.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763950905735,
+      "modifiedDate": 1763955842391,
+      "sizeInBytes": 224,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Техническая реализация/Переменные.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 48,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16,
+      "characterCount": 572,
+      "nonWhitespaceCharacterCount": 497,
+      "newlineCount": 29,
+      "readingTimeInMinutes": 0.1811320754716981,
+      "linkCount": 0,
+      "embedCount": 5,
+      "aliases": null,
+      "createdDate": 1763420423073,
+      "modifiedDate": 1763955956848,
+      "sizeInBytes": 1107,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🔵code"
+        ],
+        "Основная страница": [
+          "[[Техническая реализация]]"
+        ]
+      }
+    },
+    "Техническая реализация/Техническая реализация.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 42,
+      "nonWhitespaceCharacterCount": 36,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1763951287668,
+      "modifiedDate": 1763951967943,
+      "sizeInBytes": 191,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🟡MAIN_PAGE"
+        ],
+        "Основная страница": [
+          "[[Титульная страница]]"
+        ]
+      }
+    },
+    "Техническая реализация/Титульная Код.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763951521597,
+      "modifiedDate": 1763951583299,
+      "sizeInBytes": 212,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Техническая реализация/Без названия 1.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763951521597,
+      "modifiedDate": 1763955996941,
+      "sizeInBytes": 197,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Техническая реализация/Без названия 2.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763954996494,
+      "modifiedDate": 1763956003797,
+      "sizeInBytes": 230,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Техническая реализация/Без названия 3.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763955059056,
+      "modifiedDate": 1763955081223,
+      "sizeInBytes": 193,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Шаблон/Шаблон техдок персонажа.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763956091097,
+      "modifiedDate": 1763956091097,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

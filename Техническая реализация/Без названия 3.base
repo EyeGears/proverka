@@ -1,0 +1,6 @@
+views:
+  - type: cards
+    name: Таблица
+    filters:
+      and:
+        - file.folder == "Геймдизайн/Враги игрока/Список способностей врага"
