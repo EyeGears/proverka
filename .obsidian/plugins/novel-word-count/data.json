@@ -458,20 +458,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 7,
-      "nonWhitespaceCharacterCount": 7,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.0037735849056603774,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760844258745,
-      "modifiedDate": 1763397520541,
-      "sizeInBytes": 9,
+      "modifiedDate": 1763956152055,
+      "sizeInBytes": 119,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.0033333333333333335,
@@ -479,6 +479,16 @@
         "characterCount": 7,
         "nonWhitespaceCharacterCount": 7,
         "newlineCount": 1
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🔵code",
+          "enemy_gdd"
+        ],
+        "Основная страница": [
+          "[[Переменные]]"
+        ]
       }
     },
     "Техническая реализация/Разработка способностей/Техдок. Спос. Дебаффер.md": {
@@ -22006,20 +22016,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 38,
+      "wordCount": 39,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.12666666666666668,
-      "characterCount": 411,
-      "nonWhitespaceCharacterCount": 359,
+      "pageCount": 0.13,
+      "characterCount": 425,
+      "nonWhitespaceCharacterCount": 373,
       "newlineCount": 27,
-      "readingTimeInMinutes": 0.14339622641509434,
-      "linkCount": 12,
+      "readingTimeInMinutes": 0.1471698113207547,
+      "linkCount": 13,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1763420361985,
-      "modifiedDate": 1763950600060,
-      "sizeInBytes": 813,
+      "modifiedDate": 1763956356627,
+      "sizeInBytes": 837,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.12666666666666668,
@@ -22080,8 +22090,8 @@
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1760146706184,
-      "modifiedDate": 1763793521835,
-      "sizeInBytes": 1488,
+      "modifiedDate": 1763956334030,
+      "sizeInBytes": 1554,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.36666666666666664,
@@ -22094,6 +22104,9 @@
         "tags": [
           "🟠gamedesign",
           "enemy_gdd"
+        ],
+        "Основная страница": [
+          "[[Геймдизайн]]"
         ]
       }
     },
@@ -22219,20 +22232,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 12,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.04,
+      "characterCount": 393,
+      "nonWhitespaceCharacterCount": 132,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.045283018867924525,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760146811894,
-      "modifiedDate": 1760146811894,
-      "sizeInBytes": 0,
+      "modifiedDate": 1763956173242,
+      "sizeInBytes": 578,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
@@ -22240,6 +22253,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "enemy_gdd",
+          "🟠gamedesign"
+        ],
+        "Основная страница": [
+          "[[Враги]]"
+        ]
       }
     },
     "Геймдизайн/Враги игрока/Листы врагов/Боец.md": {
@@ -22382,20 +22405,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 383,
+      "wordCount": 386,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.2766666666666666,
-      "characterCount": 2930,
-      "nonWhitespaceCharacterCount": 2468,
-      "newlineCount": 50,
-      "readingTimeInMinutes": 1.4452830188679244,
-      "linkCount": 1,
+      "pageCount": 1.2866666666666666,
+      "characterCount": 2952,
+      "nonWhitespaceCharacterCount": 2487,
+      "newlineCount": 51,
+      "readingTimeInMinutes": 1.4566037735849056,
+      "linkCount": 2,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1760142092312,
-      "modifiedDate": 1763513486062,
-      "sizeInBytes": 5332,
+      "modifiedDate": 1763956252221,
+      "sizeInBytes": 5368,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.2766666666666666,
@@ -23167,8 +23190,8 @@
       "embedCount": 5,
       "aliases": null,
       "createdDate": 1763420423073,
-      "modifiedDate": 1763955956848,
-      "sizeInBytes": 1107,
+      "modifiedDate": 1763956369887,
+      "sizeInBytes": 1138,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -23182,7 +23205,8 @@
           "🔵code"
         ],
         "Основная страница": [
-          "[[Техническая реализация]]"
+          "[[Техническая реализация]]",
+          "[[Геймдизайн]]"
         ]
       }
     },
@@ -23338,16 +23362,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1763956091097,
-      "modifiedDate": 1763956091097,
-      "sizeInBytes": 0,
+      "modifiedDate": 1763956121614,
+      "sizeInBytes": 119,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -23355,6 +23379,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🔵code",
+          "enemy_gdd"
+        ],
+        "Основная страница": [
+          "[[Переменные]]"
+        ]
       }
     }
   }
