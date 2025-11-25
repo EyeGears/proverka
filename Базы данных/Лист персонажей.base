@@ -9,6 +9,6 @@ views:
     order:
       - file.name
       - file.tags
-    cardSize: 300
+    cardSize: 130
     imageFit: contain
     image: note.cssclasses

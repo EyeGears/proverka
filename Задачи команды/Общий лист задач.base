@@ -12,4 +12,8 @@ views:
       - file.ctime
       - file.tags
       - Статус задачи
-    sort: []
+    sort:
+      - property: file.tags
+        direction: DESC
+      - property: Статус задачи
+        direction: DESC
