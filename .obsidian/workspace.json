@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Нарратив/Общий нарратив.md",
-                "mode": "source",
+                "file": "Нарратив/Сеттинг/Кольца/Внешнее. Патала.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Общий нарратив"
+              "title": "Внешнее. Патала"
             }
           },
           {
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Нарратив/Общий нарратив.md",
+                "file": "Нарратив/Сеттинг/Кольца/Внешнее. Патала.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Общий нарратив"
+              "title": "Обратные ссылки для Внешнее. Патала"
             }
           },
           {
@@ -230,12 +230,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Нарратив/Общий нарратив.md",
+                "file": "Нарратив/Сеттинг/Кольца/Внешнее. Патала.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Общий нарратив"
+              "title": "Исходящие ссылки из Внешнее. Патала"
             }
           },
           {
@@ -343,9 +343,9 @@
   },
   "active": "907bbad8cac8cdfc",
   "lastOpenFiles": [
-    "Нарратив/Сеттинг/Мир Трилока. Общее.md",
-    "Нарратив/Общий нарратив.md",
     "Нарратив/Сеттинг/Список рас.md",
+    "Нарратив/Общий нарратив.md",
+    "Нарратив/Сеттинг/Мир Трилока. Общее.md",
     "Продакшен/Титульная страница.md",
     "Геймдизайн/Геймдизайн.md",
     "Задачи команды/Список задач/Левелдизайн.md",
