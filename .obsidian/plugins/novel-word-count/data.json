@@ -1071,20 +1071,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 36,
+      "wordCount": 33,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.12,
-      "characterCount": 361,
-      "nonWhitespaceCharacterCount": 304,
-      "newlineCount": 31,
-      "readingTimeInMinutes": 0.13584905660377358,
-      "linkCount": 9,
-      "embedCount": 3,
+      "pageCount": 0.11,
+      "characterCount": 311,
+      "nonWhitespaceCharacterCount": 268,
+      "newlineCount": 21,
+      "readingTimeInMinutes": 0.12452830188679245,
+      "linkCount": 12,
+      "embedCount": 0,
       "aliases": null,
       "createdDate": 1763420409121,
-      "modifiedDate": 1764097347257,
-      "sizeInBytes": 691,
+      "modifiedDate": 1764687042104,
+      "sizeInBytes": 628,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.12,
@@ -2029,20 +2029,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2421,
+      "wordCount": 2423,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 8.07,
-      "characterCount": 16737,
-      "nonWhitespaceCharacterCount": 13976,
+      "pageCount": 8.076666666666666,
+      "characterCount": 16756,
+      "nonWhitespaceCharacterCount": 13993,
       "newlineCount": 258,
-      "readingTimeInMinutes": 9.135849056603774,
+      "readingTimeInMinutes": 9.143396226415094,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1759792097850,
-      "modifiedDate": 1764084590268,
-      "sizeInBytes": 30329,
+      "modifiedDate": 1764685345130,
+      "sizeInBytes": 30363,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 8.07,
@@ -20500,8 +20500,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1759802519498,
-      "modifiedDate": 1763513499136,
-      "sizeInBytes": 3401,
+      "modifiedDate": 1764162065973,
+      "sizeInBytes": 3467,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.4,
@@ -20513,6 +20513,9 @@
       "frontmatter": {
         "tags": [
           "🟠gamedesign"
+        ],
+        "Основная страница": [
+          "[[Геймдизайн]]"
         ]
       }
     },
@@ -20524,16 +20527,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.13666666666666666,
-      "characterCount": 340,
+      "characterCount": 341,
       "nonWhitespaceCharacterCount": 294,
-      "newlineCount": 6,
+      "newlineCount": 7,
       "readingTimeInMinutes": 0.15471698113207547,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760494559233,
-      "modifiedDate": 1764083239113,
-      "sizeInBytes": 607,
+      "modifiedDate": 1764686638604,
+      "sizeInBytes": 718,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.13666666666666666,
@@ -20541,6 +20544,15 @@
         "characterCount": 340,
         "nonWhitespaceCharacterCount": 294,
         "newlineCount": 6
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🟠gamedesign"
+        ],
+        "Основная страница": [
+          "[[Геймдизайн]]"
+        ]
       }
     },
     "Геймдизайн/Системы и переменные/Список ачивок.md": {
@@ -21020,16 +21032,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.56,
-      "characterCount": 3231,
+      "characterCount": 3233,
       "nonWhitespaceCharacterCount": 1453,
-      "newlineCount": 36,
+      "newlineCount": 38,
       "readingTimeInMinutes": 0.6339622641509434,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1760143678231,
-      "modifiedDate": 1760839570739,
-      "sizeInBytes": 4231,
+      "modifiedDate": 1764686604649,
+      "sizeInBytes": 4296,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.56,
@@ -21037,6 +21049,13 @@
         "characterCount": 3231,
         "nonWhitespaceCharacterCount": 1453,
         "newlineCount": 36
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🟠gamedesign",
+          "main_character"
+        ]
       }
     },
     "Геймдизайн/Персонажи игрока/Прокачка/Прокачка способностей/Ветка развития Дебаффер.md": {
@@ -23157,20 +23176,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 18,
+      "wordCount": 20,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.06,
-      "characterCount": 173,
-      "nonWhitespaceCharacterCount": 149,
-      "newlineCount": 10,
-      "readingTimeInMinutes": 0.06792452830188679,
-      "linkCount": 1,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 253,
+      "nonWhitespaceCharacterCount": 223,
+      "newlineCount": 16,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 4,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1763425013649,
-      "modifiedDate": 1764086437572,
-      "sizeInBytes": 403,
+      "modifiedDate": 1764686547919,
+      "sizeInBytes": 520,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.06,
@@ -23790,16 +23809,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1764162017698,
-      "modifiedDate": 1764162017698,
-      "sizeInBytes": 0,
+      "modifiedDate": 1764162018127,
+      "sizeInBytes": 584,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -23807,6 +23826,156 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "MC-colors": [
+          {
+            "h": 0.5992907801418439,
+            "s": 0.3333333333333333,
+            "l": 0.7235294117647059,
+            "area": 0.3389629814283934
+          },
+          {
+            "h": 0.42857142857142866,
+            "s": 0.02766798418972328,
+            "l": 0.49607843137254903,
+            "area": 0.0001246416552411816
+          },
+          {
+            "h": 0.611111111111111,
+            "s": 0.23076923076923078,
+            "l": 0.025490196078431372,
+            "area": 0.0020565873114794966
+          },
+          {
+            "h": 0.5833333333333334,
+            "s": 0.20588235294117652,
+            "l": 0.26666666666666666,
+            "area": 0.4689019070173252
+          },
+          {
+            "h": 0,
+            "s": 0,
+            "l": 1,
+            "area": 0.18995388258756077
+          }
+        ],
+        "MC-size": [
+          425,
+          536
+        ],
+        "MC-last-updated": "2025-11-26T13:00:18.122Z"
+      }
+    },
+    "Нарратив/Локации игры.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 23,
+      "nonWhitespaceCharacterCount": 21,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1764686858553,
+      "modifiedDate": 1764686904911,
+      "sizeInBytes": 155,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🔴plot",
+          "level"
+        ],
+        "Основная страница": [
+          "[[Общий нарратив]]"
+        ]
+      }
+    },
+    "Нарратив/Предметы сеттинга.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 24,
+      "nonWhitespaceCharacterCount": 22,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1764686923050,
+      "modifiedDate": 1764686965881,
+      "sizeInBytes": 157,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🔴plot",
+          "world"
+        ],
+        "Основная страница": [
+          "[[Общий нарратив]]"
+        ]
+      }
+    },
+    "Нарратив/Основные составляющие сеттинга.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 32,
+      "nonWhitespaceCharacterCount": 30,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1764686973729,
+      "modifiedDate": 1764687029781,
+      "sizeInBytes": 173,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🔴plot",
+          "world"
+        ],
+        "Основная страница": [
+          "[[Общий нарратив]]"
+        ]
       }
     }
   }
