@@ -9,15 +9,22 @@ views:
         - file.hasTag("🌈task")
         - file.name != "Шаблон для задач"
         - file.name != "Общий лист задач"
+        - note["Статус задачи"].contains("В работе ❕")
     groupBy:
       property: file.tags
       direction: ASC
     order:
       - file.name
       - file.ctime
+      - file.tags
       - Статус задачи
-    sort: []
+    sort:
+      - property: Статус задачи
+        direction: DESC
+      - property: file.ctime
+        direction: DESC
     summaries: {}
     columnSize:
-      file.name: 110
-      file.ctime: 166
+      file.name: 163
+      file.ctime: 94
+      file.tags: 154

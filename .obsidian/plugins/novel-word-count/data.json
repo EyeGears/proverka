@@ -1071,20 +1071,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 33,
+      "wordCount": 44,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.11,
-      "characterCount": 311,
-      "nonWhitespaceCharacterCount": 268,
-      "newlineCount": 21,
-      "readingTimeInMinutes": 0.12452830188679245,
-      "linkCount": 12,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 418,
+      "nonWhitespaceCharacterCount": 359,
+      "newlineCount": 28,
+      "readingTimeInMinutes": 0.1660377358490566,
+      "linkCount": 13,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1763420409121,
-      "modifiedDate": 1764687042104,
-      "sizeInBytes": 628,
+      "modifiedDate": 1764687387194,
+      "sizeInBytes": 814,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.12,
@@ -2391,20 +2391,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 43,
+      "wordCount": 41,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.14333333333333334,
-      "characterCount": 492,
-      "nonWhitespaceCharacterCount": 440,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 470,
+      "nonWhitespaceCharacterCount": 420,
       "newlineCount": 25,
-      "readingTimeInMinutes": 0.16226415094339622,
+      "readingTimeInMinutes": 0.15471698113207547,
       "linkCount": 14,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1763435815625,
-      "modifiedDate": 1764084773225,
-      "sizeInBytes": 866,
+      "modifiedDate": 1764692836682,
+      "sizeInBytes": 830,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.14333333333333334,
@@ -20257,8 +20257,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1763194110147,
-      "modifiedDate": 1764022672359,
-      "sizeInBytes": 416,
+      "modifiedDate": 1764688853727,
+      "sizeInBytes": 530,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -20284,8 +20284,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1763197915306,
-      "modifiedDate": 1764022640378,
-      "sizeInBytes": 85,
+      "modifiedDate": 1764688634332,
+      "sizeInBytes": 113,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
@@ -20300,7 +20300,9 @@
           "🟠gamedesign",
           "🌈task"
         ],
-        "Статус задачи": null
+        "Статус задачи": [
+          "В ожидании ❔"
+        ]
       }
     },
     "Задачи команды/Список задач/Левелдизайн.md": {
@@ -20319,8 +20321,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1763227573857,
-      "modifiedDate": 1764022705864,
-      "sizeInBytes": 98,
+      "modifiedDate": 1764688639240,
+      "sizeInBytes": 122,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
@@ -20336,7 +20338,9 @@
           "#level",
           "🌈task"
         ],
-        "Статус задачи": null
+        "Статус задачи": [
+          "В работе ❕"
+        ]
       }
     },
     "Задачи команды/Список задач/Создание портретов персонажей.md": {
@@ -20355,8 +20359,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1763194283031,
-      "modifiedDate": 1764022639772,
-      "sizeInBytes": 81,
+      "modifiedDate": 1764688633266,
+      "sizeInBytes": 109,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
@@ -20371,7 +20375,9 @@
           "🌈task",
           "#🟢art"
         ],
-        "Статус задачи": null
+        "Статус задачи": [
+          "В ожидании ❔"
+        ]
       }
     },
     "Геймдизайн/Системы и переменные/Характеристики способностей игрока.md": {
@@ -23976,6 +23982,113 @@
         "Основная страница": [
           "[[Общий нарратив]]"
         ]
+      }
+    },
+    "Задачи команды/Шаблон для задач.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1764687534353,
+      "modifiedDate": 1764687568473,
+      "sizeInBytes": 275,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🌈task",
+          "🟠gamedesign"
+        ],
+        "Статус задачи": [
+          "Выполнена ✔️",
+          "В работе ❕",
+          "Пауза ⏸️",
+          "Отменена ❌",
+          "Запланирована 🟨",
+          "Черновик ◐",
+          "В ожидании ❔"
+        ],
+        "cssclasses": null
+      }
+    },
+    "Задачи команды/Общий лист задач.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 19,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 174,
+      "nonWhitespaceCharacterCount": 148,
+      "newlineCount": 17,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1764688451818,
+      "modifiedDate": 1764692857131,
+      "sizeInBytes": 418,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "cssclasses": null,
+        "tags": [
+          "🟡MAIN_PAGE",
+          "🌈task"
+        ],
+        "Основная страница": [
+          "[[Титульная страница]]"
+        ]
+      }
+    },
+    "Задачи команды/Общий лист задач 1.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764688643497,
+      "modifiedDate": 1764688673535,
+      "sizeInBytes": 762,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
