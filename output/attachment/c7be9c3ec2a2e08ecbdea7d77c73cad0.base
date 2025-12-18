@@ -1,0 +1,15 @@
+views:
+  - type: cards
+    name: Таблица
+    filters:
+      and:
+        - file.folder == "Нарратив/Сюжет/Протагонисты"
+    order:
+      - file.name
+      - file.tags
+      - file.path
+    sort: []
+    cardSize: 210
+    image: note.cssclasses
+    imageFit: contain
+    imageAspectRatio: 1

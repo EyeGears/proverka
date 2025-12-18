@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.inFolder("Нарратив")
+views:
+  - type: cards
+    name: Таблица
+    filters:
+      and:
+        - file.inFolder("Нарратив/Сеттинг/Предметы")
+    order:
+      - file.name
+      - file.tags
+      - file.folder
