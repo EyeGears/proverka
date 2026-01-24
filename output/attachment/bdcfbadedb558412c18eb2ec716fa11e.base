@@ -1,9 +1,0 @@
-views:
-  - type: table
-    name: Таблица
-    filters:
-      and:
-        - file.tags == ["🟢art"]
-    sort:
-      - property: file.name
-        direction: ASC

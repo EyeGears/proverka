@@ -1,9 +1,0 @@
-views:
-  - type: cards
-    name: Таблица
-    filters:
-      and:
-        - file.name.startsWith("Техдок")
-        - '!file.name.startsWith("Техдок. Спос.")'
-    cardSize: 260
-    imageAspectRatio: 0.8
